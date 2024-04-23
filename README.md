@@ -1,3 +1,24 @@
+# Netflix Clone Project
+
+This project is a Netflix clone created as part of my journey to learn web development. It utilizes HTML, CSS, JavaScript, React, Axios, react-youtube-trailers, and react-router-dom.
+
+# Features
+
+Homepage: Mimics the layout of the Netflix homepage, displaying a collection of movies and TV shows.
+Trailer Playback: Integrates react-youtube-trailers to play trailers of selected titles.
+Responsive Design: Ensures the application is usable and visually appealing across various devices and screen sizes.
+Routing: Utilizes react-router-dom for client-side routing, enabling seamless navigation between different pages of the application.
+
+# Technologies Used
+
+HTML: Markup language for structuring the web pages.
+CSS: Stylesheet language for styling the web pages.
+JavaScript: Programming language used for dynamic behavior and interactivity.
+React: JavaScript library for building user interfaces.
+Axios: Promise-based HTTP client for making AJAX requests.
+react-youtube-trailers: React component for playing YouTube trailers.
+react-router-dom: Library for declarative routing in React applications.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
