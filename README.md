@@ -1,4 +1,4 @@
-# Netflix Clone Project
+# MaddyFlix Project
 
 This project is a Netflix clone created as part of my journey to learn web development. It utilizes HTML, CSS, JavaScript, React, Axios, react-youtube-trailers, and react-router-dom.
 
